@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "NextUpSDK",
             url: "https://github.com/timberlanelabs/NextUp-iOS/releases/download/1.0.0/NextUpSDK.xcframework.zip",
-            checksum: "220da16cf8787b639379d92b5d8ddf8cfeed3dc39a3dde21f7a049d2c4255e86"
+            checksum: "4050f7c8857f4e0fe8c1f358d040049dadf44a2e8bb73fa4bf9f68c7115b32a4"
         )
     ]
 )
